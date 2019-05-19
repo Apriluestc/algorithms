@@ -77,7 +77,7 @@
 		</td>
 		<td align="center">
 			<a href="https://github.com/DyingBunny">
-				<img src="https://avatars2.githubusercontent.com/u/48518283?s=400&v=4" width="100px;" alt="DyingBunny"/><br />
+				<img src="https://github.com/Apriluestc/img.org/blob/master/47047997.jpg" width="100px;" alt="DyingBunny"/><br />
 				<sub>
 					<b>
 						DyingBunny
