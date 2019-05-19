@@ -75,6 +75,18 @@
 			<br />
 			<a href="https://github.com/Apriluestc/algorithms" title="Code">💻</a> 
 		</td>
+		<td align="center">
+			<a href="https://github.com/DyingBunny">
+				<img src="https://avatars2.githubusercontent.com/u/48518283?s=400&v=4" width="100px;" alt="DyingBunny"/><br />
+				<sub>
+					<b>
+						DyingBunny
+					</b>
+				</sub>
+			</a>
+			<br />
+			<a href="https://github.com/DyingBunny/algorithms" title="Code">💻</a> 
+		</td>
 	</tr>
 </table>
 
